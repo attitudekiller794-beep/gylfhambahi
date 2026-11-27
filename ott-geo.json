@@ -1,0 +1,48 @@
+﻿{
+    "status": "success",
+    "configuration": {
+        "user_agent": "ClientPlayer/1.0",
+        "app_language": "en",
+        "app_version": "1.0",
+        "app_links": "",
+        "downloads_allowed": false,
+        "tmdb_key": "",
+        "tmdb_active": false,
+        "opensubtitles_key": "",
+        "opensubtitles_active": true,
+        "tv_content_load_method": "each",
+        "mob_content_load_method": "each",
+        "logo_url": "https://ahflix.com/glfham/ott-geo/logo.png",
+        "theme_background": "",
+        "intro_video": ""
+    },
+    "adult_settings": {
+        "adult_lock": false,
+        "hide_adult": false,
+        "adult_pin": "0000",
+        "words_lock": []
+    },
+    "authentication": {
+        "show_username_password": true,
+        "show_activation_code": false,
+        "allow_method_switch": false,
+        "primary_method": "username_password",
+        "fixed_code_length": 0
+    },
+    "match_shadules": {
+        "enable": false,
+        "link": ""
+    },
+    "security_settings": {
+        "vpn_detection": {
+            "enabled": false,
+            "custom_title": "VPN Detected",
+            "custom_message": "Please disconnect your VPN to continue.",
+            "blocked_packages": []
+        }
+    },
+    "dns_entries": [
+        "http://fgzs.homes:8080",
+        "https://7890abc.beauty"
+    ]
+}
